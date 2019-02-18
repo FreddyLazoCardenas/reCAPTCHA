@@ -1,0 +1,10 @@
+
+nsquid:CallToDeprecatedMethod"<Remove this use of "RecaptchaTokenResult"; it is deprecated.(¶»—ßøÿÿÿÿ8üž«ˆ-
+]squid:CallToDeprecatedMethod"+Remove this use of "API"; it is deprecated.(Ôø³£ùÿÿÿÿ8üž«ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀÑüëÿÿÿÿÿ8üž«ˆ-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÆÌ¶øÿÿÿÿ8üž«ˆ-
+gsquid:CallToDeprecatedMethod";Remove this use of "verifyWithRecaptcha"; it is deprecated.(»Èƒ8üž«ˆ-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¿í8üž«ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùÆ»³úÿÿÿÿ8üž«ˆ-
+nsquid:CallToDeprecatedMethod"<Remove this use of "RecaptchaTokenResult"; it is deprecated.(Ú¢×åúÿÿÿÿ8üž«ˆ-
+`squid:CallToDeprecatedMethod"4Remove this use of "SafetyNetApi"; it is deprecated.(»Èƒ8üž«ˆ-
